@@ -9,7 +9,7 @@ It logs in, adds three products to the cart, completes checkout and verifies tha
 
 From the project root, run this command:
 
-pip install -r requirements.txt && python -m playwright install --with-deps && python -u -m src.TESTS
+pip install -r requirements.txt && python -m playwright install --with-deps && python -u -m src.tests
 
 ## Configuration
 
