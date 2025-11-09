@@ -25,7 +25,7 @@ Example:
 
 {
   "base_url": "https://www.saucedemo.com",
-  "user": { "username": "standard_user", "password": "secret_sauce" },
+  "user": { "user_name": "standard_user", "password": "secret_sauce" },
   "products": [
     "add-to-cart-sauce-labs-backpack",
     "add-to-cart-sauce-labs-bike-light",
